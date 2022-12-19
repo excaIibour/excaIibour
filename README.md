@@ -5,13 +5,41 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=excaIibour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excaIibour&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Josie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Josie-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Josie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Josie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Josie-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<h2 align="center">Linguagens e Ferramentas</h2>
+  <h3 align="center">FrontEnd</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/dd6387" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/dd6387"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/dd6387"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/dd6387"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/dd6387"/>          
+  </p>
+  
+  <h3 align="center">BackEnd</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/dd6387"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/csharp/dd6387"/> 
+      
+  </p>
+  
+  <h3 align="center">Banco de Dados</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/sqlserver/dd6387"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/dd6387"/>    
+  </p>
+  
+  <h3 align="center">DevOps</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/docker/dd6387"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftazure/dd6387"/>        
+  </p>
+  
+  <h3 align="center">Ferramentas</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/dd6387"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/figma/dd6387"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/git/dd6387"/> 
+  </p>
   
  ##
   
