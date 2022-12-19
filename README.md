@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excaIibour&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h2 align="center">Linguagens e Ferramentas</h2>
-  <h3 align="center">FrontEnd</h3>
+  <h3 align="center">Frontend</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/dd6387" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/dd6387"/> 
@@ -15,16 +15,17 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/dd6387"/>          
   </p>
   
-  <h3 align="center">BackEnd</h3>
+  <h3 align="center">Backend</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/dd6387"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/csharp/dd6387"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/c++/dd6387"/> 
       
   </p>
   
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/sqlserver/dd6387"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/dd6387"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/dd6387"/>    
   </p>
   
