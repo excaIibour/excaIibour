@@ -1,10 +1,13 @@
-## Oie! Meu nome é Joseane e eu sou desenvolvedora de software.
+## Oie! Meu nome é Joseane e eu sou Desenvolvedora de Software.
+
+***************
 
 <div align="center">
   <a href="https://github.com/excaIibour">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=excaIibour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excaIibour&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Frontend</h3>
   <p align="center">
