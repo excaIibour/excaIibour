@@ -41,6 +41,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/dd6387"/>    
     <img height="40" width="40" src="https://cdn.simpleicons.org/figma/dd6387"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/git/dd6387"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel/dd6387"/> 
   </p>
   
  ##
