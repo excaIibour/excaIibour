@@ -9,39 +9,39 @@
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Frontend</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1F2F26" /> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1F2F26"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1F2F26"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1F2F26"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/1F2F26"/>          
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/DDAD86" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/DDAD86"/>          
   </p>
   
   <h3 align="center">Backend</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1F2F26"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/csharp/1F2F26"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/c++/1F2F26"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/csharp/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/c++/DDAD86"/> 
       
   </p>
   
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/1F2F26"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/1F2F26"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/DDAD86"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/DDAD86"/>    
   </p>
   
   <h3 align="center">DevOps</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/docker/1F2F26"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftazure/1F2F26"/>        
+    <img height="40" width="40" src="https://cdn.simpleicons.org/docker/DDAD86"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftazure/DDAD86"/>        
   </p>
   
   <h3 align="center">Ferramentas</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1F2F26"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/figma/1F2F26"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/git/1F2F26"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel/1F2F26"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/DDAD86"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/figma/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/git/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel/DDAD86"/> 
   </p>
   
  ##
