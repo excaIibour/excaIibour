@@ -6,7 +6,9 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/DDAD86" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/DDAD86"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/DDAD86"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/flutter/DDAD86"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/dart/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/DDAD86"/>          
   </p>
   
@@ -20,6 +22,7 @@
   
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/firebase/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/DDAD86"/>    
   </p>
@@ -35,7 +38,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/DDAD86"/>    
     <img height="40" width="40" src="https://cdn.simpleicons.org/figma/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/git/DDAD86"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/swagger/DDAD86"/> 
   </p>
   
  ##
