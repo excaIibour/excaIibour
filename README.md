@@ -3,12 +3,11 @@
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Frontend</h3>
   <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/dart/DDAD86"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/flutter/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/DDAD86" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/DDAD86"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/react/DDAD86"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/flutter/DDAD86"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/dart/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/DDAD86"/>          
   </p>
   
@@ -17,7 +16,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/csharp/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/c++/DDAD86"/> 
-      
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/DDAD86"/> 
   </p>
   
   <h3 align="center">Banco de Dados</h3>
