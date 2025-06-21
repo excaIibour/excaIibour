@@ -5,7 +5,7 @@
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/dart/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/flutter/DDAD86"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/DDAD86" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css/DDAD86" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/react/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/DDAD86"/>          
@@ -14,7 +14,7 @@
   <h3 align="center">Backend</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/DDAD86"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/csharp/DDAD86"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/python/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/c++/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/DDAD86"/> 
   </p>
@@ -28,13 +28,12 @@
   
   <h3 align="center">DevOps</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/docker/DDAD86"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftazure/DDAD86"/>        
+    <img height="40" width="40" src="https://cdn.simpleicons.org/docker/DDAD86"/>      
   </p>
   
   <h3 align="center">Ferramentas</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/DDAD86"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/androidstudio/DDAD86"/>    
     <img height="40" width="40" src="https://cdn.simpleicons.org/figma/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/git/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/swagger/DDAD86"/> 
