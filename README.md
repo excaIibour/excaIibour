@@ -9,6 +9,7 @@ Sou apaixonada por tecnologia e soluções que fazem a diferença. Tenho experi�
   
 <h2 align="center">Linguagens e Tecnologias</h2>
   <h3 align="center">Frontend</h3>
+  <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/flutter/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/css/DDAD86" /> 
