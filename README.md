@@ -1,6 +1,6 @@
 ## Oie! Meu nome é Joseane e eu sou Desenvolvedora de Software :)
 
-Sou apaixonada por tecnologia e soluções que fazem a diferença. Tenho experiência no desenvolvimento de aplicações web e mobile, trabalhando com foco em desempenho, usabilidade e integração de sistemas. Já atuei com linguagens como Dart, C#, C++, Python, Node.js e React, além de bancos de dados como Firebase, MySQL e MongoDB. Gosto de desafios que envolvam automação, backend estruturado e interfaces eficientes. Também me interesso por dados, DevOps e tudo que ajude a transformar ideias em produtos reais.
+Sou apaixonada por tecnologia e soluções que fazem a diferença. Tenho experiência no desenvolvimento de aplicações web e mobile, trabalhando com foco em desempenho, usabilidade e integração de sistemas. Já atuei com linguagens como C#, C++, Python, além de bancos de dados como Firebase, MySQL e MongoDB. Gosto de desafios que envolvam automação, backend estruturado e interfaces eficientes. Também me interesso por dados, DevOps e tudo que ajude a transformar ideias em produtos reais.
 
 <div> 
   <a href = "mailto:joseanevieiradeoliveira03@gmail.com"><img src="https://img.shields.io/badge/Gmail-1C6B94?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
@@ -9,13 +9,11 @@ Sou apaixonada por tecnologia e soluções que fazem a diferença. Tenho experi�
   
 <h2 align="center">Linguagens e Tecnologias</h2>
   <h3 align="center">Frontend</h3>
-  <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/dart/DDAD86"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/flutter/DDAD86"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/css/DDAD86" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/DDAD86"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/DDAD86"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/DDAD86"/>          
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/DDAD86"/>          
   </p>
   
   <h3 align="center">Backend</h3>
@@ -44,6 +42,7 @@ Sou apaixonada por tecnologia e soluções que fazem a diferença. Tenho experi�
     <img height="40" width="40" src="https://cdn.simpleicons.org/figma/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/git/DDAD86"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/swagger/DDAD86"/> 
+     <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/DDAD86"/>
   </p>
   
 
